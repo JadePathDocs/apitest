@@ -1,5 +1,3 @@
 test test
 
 new feature, this time in dev branch
-
-2nd feature, in dev branch again
